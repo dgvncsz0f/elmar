@@ -1,0 +1,11 @@
+{
+  "name": "elmar",
+  "version": "0.1.0",
+  "description": "description for elmar",
+  "repository": "https://github.com/user/project.git",
+  "scripts": {
+    "start": "elm-factory dev",
+    "build": "elm-factory build",
+    "test": ""
+  }
+}
